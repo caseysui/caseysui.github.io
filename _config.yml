@@ -2,4 +2,4 @@ theme: jekyll-theme-slate
 # Site
 title: Casey Sui
 description: I used to be fun...
-avatar: images\avatar.jpg
+avatar: \images\avatar.jpg
