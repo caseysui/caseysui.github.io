@@ -1,8 +1,38 @@
 ## Welcome to My GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/caseysui/caseysui.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### 服务推荐
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+|注册															  |
+|-----------------------------------------------------------------|
+|[JUSTMYSOCKS](https://justmysocks3.net/members/aff.php?aff=6828) |
+|[SHADOWSOCKS](https://portal.shadowsocks.nz/aff.php?aff=12148)   |
+|平台 	  |下载												      			|下载																				|		
+|---------|-----------------------------------------------------------------|-----------------------------------------------------------------------------------|
+|ANDROID  |[v2rayNG](https://github.com/2dust/v2rayNG/releases) 			|[Shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android/releases) |
+|WINDOWS  |[v2rayN](https://github.com/2dust/v2rayN/releases)   			|[Shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows/releases) |
+|.DAT	  |[.DAT](https://github.com/Loyalsoldier/v2ray-rules-dat/releases) |[Qv2ray-MACOS](https://github.com/Qv2ray/Qv2ray/releases)              			|
+
+### 个人备份
+
+- [v2ray规则](case/v2ray规则.md)
+
+- [ifw](case/ifw.md)
+
+- [scoop](case/scoop.md)
+
+- [ts转mp4](case/ts转mp4.md)
+
+- [mp4合并](case/mp4合并.md)
+
+- [adb连接手机](case/adb连接手机.md)
+
+- [cmd实用命令](case/cmd实用命令.md)
+
+- [cmd显示中文](case/cmd显示中文.md)
+
+- [ffmpeg常用命令](case/ffmpeg常用命令.md)
+
+- [小米盒子hosts去广告](case/小米盒子hosts去广告.md)
 
 ### Markdown
 

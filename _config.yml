@@ -1,8 +1,8 @@
 theme: jekyll-theme-minimal
-title: Young's personal website
+# Site
+title: Casey
 subtitle: Welcome
 description: 欢迎来到我的网站
-keywords: iOS 生活 工作
-author: Young Lei
+author: Casey
 language: zh-CN
 timezone: Asia/Shanghai
