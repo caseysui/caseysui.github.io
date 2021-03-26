@@ -5,3 +5,11 @@ description: I used to be fun...
 author: Casey
 language: zh-CN
 timezone: Asia/Shanghai
+favicon:
+  small: /images/favicon.png
+  medium: /images/favicon.png
+
+avatar:
+  url: /images/avatar.jpg
+  rounded: true
+  rotated: true
