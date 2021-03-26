@@ -1,18 +1,5 @@
 ## Welcome to My GitHub Pages
 
-### 服务推荐
-
-|注册															  |
-|-----------------------------------------------------------------|
-|[JUSTMYSOCKS](https://justmysocks3.net/members/aff.php?aff=6828) |
-|[SHADOWSOCKS](https://portal.shadowsocks.nz/aff.php?aff=12148)   |
-
-
-### 个人备份
-
-- [v2ray规则](case/v2ray规则.md)
-
-
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
