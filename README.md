@@ -8,7 +8,7 @@
 
 ### 个人备份
 
- - [ifw](case/ifw.md)
+ - [ifw规则](case/ifw规则.md)
 
  - [v2ray规则](case/v2ray规则.md)
 
