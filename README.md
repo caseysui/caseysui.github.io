@@ -1,6 +1,6 @@
 ### Welcome to my Github.
 
-扫码加我微信
+	扫码加我微信
 
 ![image](images/wechat.jpg)
 
