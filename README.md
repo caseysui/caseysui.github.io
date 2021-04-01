@@ -12,8 +12,8 @@
 
 ### 个人备份
 
- - [ifw规则](case/ifw规则.md)
+ - [ifw rules](case/ifw_rules.md)
 
- - [v2ray规则](case/v2ray规则.md)
+ - [v2ray rules](case/v2ray_rules.md)
 
- - [小米盒子hosts去广告](case/小米盒子hosts去广告.md)
+ - [小米盒子/电视去广告](case/MiBox_rules.md)
