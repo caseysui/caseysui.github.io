@@ -15,5 +15,7 @@
  - [ifw rules](case/ifw_rules.md)
 
  - [v2ray rules](case/v2ray_rules.md)
+ 
+ - [openwrt 插件](case/openwrt_plugins.md)
 
  - [小米盒子/电视去广告](case/MiBox_rules.md)

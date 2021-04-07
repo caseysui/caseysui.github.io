@@ -1,12 +1,16 @@
 ```
 [
   {
+    "port": "",
     "outboundTag": "block",
+    "ip": [],
     "domain": [
       "geosite:category-ads-all"
-    ]
+    ],
+    "protocol": []
   },
   {
+    "port": "",
     "outboundTag": "direct",
     "ip": [
       "geoip:cn",
@@ -14,15 +18,14 @@
     ],
     "domain": [
       "geosite:cn",
-      "geosite:private",
       "geosite:tld-cn",
-      "geosite:apple-cn",
-      "geosite:google-cn",
+      "geosite:private",
       "domain:windows.com",
       "domain:microsoft.com",
       "domain:jutal.com",
       "domain:pjoe.com.cn"
-    ]
+    ],
+    "protocol": []
   },
   {
     "port": "0-65535",
@@ -32,7 +35,8 @@
     ],
     "domain": [
       "geosite:geolocation-!cn"
-    ]
+    ],
+    "protocol": []
   }
 ]
 ```

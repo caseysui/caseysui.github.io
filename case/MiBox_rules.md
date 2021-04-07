@@ -1,4 +1,4 @@
-### 小米盒子hosts去广告 2021.3.24
+### 小米盒子hosts去广告 2021.4.1
 
 Android 位置
 `/system/etc/hosts`
@@ -7,6 +7,7 @@ Windows 位置
 `C:\Windows\System32\drivers\etc\hosts`
 
 ```
+127.0.0.1 localhost
 127.0.0.1 ad.doubleclick.net
 127.0.0.1 ad.hpplay.cn
 127.0.0.1 ad.mi.com

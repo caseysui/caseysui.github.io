@@ -1,0 +1,14 @@
+ - |梯子|vssr|https://github.com/jerrykuku/luci-app-vssr/releases|
+ - 终端 `ttyd`
+ - 网络唤醒 `wol`
+ - 动态转发 `ddns`
+ - 实时监控 `netdata`
+ - 网络共享 `samba4`
+ - 文件传输 `filetransfer`
+ - 文件管理 `filebrowser`
+ - 定时重启 `autoreboot`
+ - aira2 `aira2`
+ - BT下载 `qbittorrent`
+ - 百度网盘 `baidupcs-web`
+
+ - 京东一键签到 
