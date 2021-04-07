@@ -1,5 +1,5 @@
- - |梯子|vssr|https://github.com/jerrykuku/luci-app-vssr/releases|
- - 终端 `ttyd`
+ - 梯子 `vssr`
+ - 终端 `ttyd` 
  - 网络唤醒 `wol`
  - 动态转发 `ddns`
  - 实时监控 `netdata`
@@ -10,5 +10,3 @@
  - aira2 `aira2`
  - BT下载 `qbittorrent`
  - 百度网盘 `baidupcs-web`
-
- - 京东一键签到 
