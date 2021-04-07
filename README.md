@@ -8,7 +8,7 @@
 |-----------------------------------------------------------------|---------|---------------------------------------------------------------|-----------------------------------------------------------------------------------|
 |[JUSTMYSOCKS](https://justmysocks3.net/members/aff.php?aff=6828) |ANDROID  | [v2rayNG](https://github.com/2dust/v2rayNG/releases) 			| [Shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android/releases)|
 |[SHADOWSOCKS](https://portal.shadowsocks.nz/aff.php?aff=12148)   |WINDOWS  | [v2rayN](https://github.com/2dust/v2rayN/releases)   			| [Shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows/releases)|
-|                                                                 |		    | [.DAT](https://github.com/Loyalsoldier/v2ray-rules-dat/releases)| [Qv2ray-MACOS](https://github.com/Qv2ray/Qv2ray/releases)              			|
+|                                                                 |			| [.DAT](https://github.com/Loyalsoldier/v2ray-rules-dat/releases)| [Qv2ray-MACOS](https://github.com/Qv2ray/Qv2ray/releases)              			|
 
 ### 个人备份
 
