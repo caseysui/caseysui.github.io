@@ -20,5 +20,3 @@
  - [v2ray rules](case/v2ray_rules.md)
  
  - [小米盒子/电视去广告](case/MiBox_rules.md)
- 
- - [xjj](xiaojiejie/index.html)
