@@ -1,5 +1,5 @@
 ```
-#代理
+#浠ｇ悊瑙勫垯
 [
   {
     "outboundTag": "block",
@@ -57,7 +57,7 @@
 ```
 
 ```
-#全局
+#鍏ㄥ眬瑙勫垯
 [
   {
     "outboundTag": "block",
@@ -76,7 +76,7 @@
 ```
 
 ```
-#直连
+#鐩磋繛瑙勫垯
 [
   {
     "outboundTag": "block",
