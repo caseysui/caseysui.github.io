@@ -18,7 +18,7 @@ if /i "%choice%"=="1" goto set1_start
 if /i "%choice%"=="2" goto set2_start
 if /i "%choice%"=="3" goto set3_start
 echo.
-echo WTF???
+echo WTF?
 echo.
 goto loop_start
 

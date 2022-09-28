@@ -1,6 +1,4 @@
 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=2&id=32944590&auto=1&height=32"></iframe>
-
 ### 服务推荐
 
 - [JUSTMYSOCKS](https://justmysocks3.net/members/aff.php?aff=21040)
@@ -12,6 +10,8 @@
 - [Android Shadowsocks](https://github.com/shadowsocks/shadowsocks-android/releases)
 - [Windows v2rayN](https://github.com/2dust/v2rayN/releases)
 - [Windows Shadowsocks](https://github.com/shadowsocks/shadowsocks-windows/releases)
+- [Mac V2rayU](https://github.com/yanue/V2rayU/releases)
+- [教程]()
 
 ### 插件下载
 
@@ -20,16 +20,11 @@
 
 ### 个人备份
 
-- [ADB](case/ADB.md)
-- [CMD](case/CMD.md)
 - [IPTV](case/IPTV.m3u)
 - [MIUI_hosts](case/MIUI_hosts)
 - [PhotoViewer](case/PhotoViewer.md)
 - [Proxy](case/Proxy.md)
-- [Scoop](case/Scoop.md)
-- [ts2mp4](case/ts2mp4.md)
 - [V2ray rules](case/V2ray_rules.md)
-- [Webdav](case/Webdav.md)
 
 ### 扫码加我好友
 
