@@ -136,25 +136,4 @@ http://150.138.8.143/00/SNM/CHANNEL00000333/index.m3u8
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="地方",金鹰纪实
 http://150.138.8.143/00/SNM/CHANNEL00000334/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="V2BEAT" tvg-logo="" group-title="MTV",V2BEAT
-http://de1se01.v2beat.live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OTPAHA" tvg-logo="" group-title="MTV",OTPAHA
-http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MTV1" tvg-logo="" group-title="MTV",MTV1
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MTV2" tvg-logo="" group-title="MTV",MTV2
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MTV3" tvg-logo="" group-title="MTV",MTV3
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MTV4" tvg-logo="" group-title="MTV",MTV4
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS04/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MTV5" tvg-logo="" group-title="MTV",MTV5
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS05/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MTV6" tvg-logo="" group-title="MTV",MTV6
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS06/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MTV7" tvg-logo="" group-title="MTV",MTV7
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MTV8" tvg-logo="" group-title="MTV",MTV8
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
-
 
