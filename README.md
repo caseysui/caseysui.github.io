@@ -7,6 +7,7 @@
 ### 软件下载
 
 - [Android v2rayNG](https://github.com/2dust/v2rayNG/releases)
+- [Android surfboard](https://github.com/getsurfboard/surfboard/releases)
 - [Android Shadowsocks](https://github.com/shadowsocks/shadowsocks-android/releases)
 - [Windows v2rayN](https://github.com/2dust/v2rayN/releases)
 - [Windows Shadowsocks](https://github.com/shadowsocks/shadowsocks-windows/releases)
