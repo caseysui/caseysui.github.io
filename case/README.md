@@ -6,11 +6,9 @@
 
 ### 软件下载
 
-- [Android Clash](https://github.com/Kr328/ClashForAndroid/releases)
 - [Android v2rayNG](https://github.com/2dust/v2rayNG/releases)
 - [Android surfboard](https://github.com/getsurfboard/surfboard/releases)
 - [Android Shadowsocks](https://github.com/shadowsocks/shadowsocks-android/releases)
-- [Windows Clash](https://github.com/ender-zhao/Clash-for-Windows_Chinese/releases)
 - [Windows v2rayN](https://github.com/2dust/v2rayN/releases)
 - [Windows Shadowsocks](https://github.com/shadowsocks/shadowsocks-windows/releases)
 - [Mac V2rayU](https://github.com/yanue/V2rayU/releases)
