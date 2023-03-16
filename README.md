@@ -14,8 +14,8 @@
 - [Windows v2rayN](https://github.com/2dust/v2rayN/releases)
 - [Windows Shadowsocks](https://github.com/shadowsocks/shadowsocks-windows/releases)
 - [Mac V2rayU](https://github.com/yanue/V2rayU/releases)
-- [备份下载链接](https://pan.caseu.ml/s/motE)
-
+- [下载链接](https://pan.caseu.ml/s/motE)
+- [设置教程](https://caseysui.fun/case/Proxy.html)
 ### 插件下载
 
 - [GEODAT](https://github.com/Loyalsoldier/v2ray-rules-dat/releases)
@@ -27,7 +27,6 @@
 - [IPTV](case/IPTV.m3u)
 - [MIUI_hosts](case/MIUI_hosts)
 - [PhotoViewer](case/PhotoViewer.md)
-- [Proxy](case/Proxy.md)
 - [V2ray rules](case/V2ray_rules.md)
 
 ### 扫码加我好友
