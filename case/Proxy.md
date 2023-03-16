@@ -1,4 +1,10 @@
-### 安卓版Clashw使用教程
+### IOS版shadowrocket使用教程
+
+右上角+号，URL处粘贴订阅链接，右上角保存，开启代理即可
+
+并确保设置-订阅处，开启 打开时更新 和 自动后台更新 和 提醒
+
+### 安卓版Clash使用教程
 
 去[这里](https://pan.caseu.ml/s/motE)找到Clash.for.Android，下载并安装
 
