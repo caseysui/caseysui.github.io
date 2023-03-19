@@ -43,8 +43,6 @@ http://150.138.8.143/00/SNM/CHANNEL00000350/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00000351/index.m3u8
 #EXTINF:-1 tvg-id="891" tvg-name="CGTN纪录" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CGTNDoc.png" group-title="央视",CGTN纪录
 http://150.138.8.143/00/SNM/CHANNEL00000353/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="海洋频道" tvg-logo="" group-title="央视",海洋频道
-http://150.138.8.143/00/SNM/CHANNEL00000662/index.m3u8
 
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视
 http://150.138.8.143/00/SNM/CHANNEL00000324/index.m3u8
@@ -127,10 +125,6 @@ http://150.138.8.143/00/SNM/CHANNEL00000056/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00000338/index.m3u8
 #EXTINF:-1 tvg-id="1434" tvg-name="山东生活" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_shenghuo.png" group-title="地方",山东生活
 http://150.138.8.143/00/SNM/CHANNEL00000336/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="山东文旅" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_wenlv.png" group-title="地方",山东文旅
-http://150.138.8.143/00/SNM/CHANNEL00000337/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="山东教育" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="地方",山东教育
-http://150.138.8.143/00/SNM/CHANNEL00000364/index.m3u8
 #EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="地方",上海纪实人文
 http://150.138.8.143/00/SNM/CHANNEL00000333/index.m3u8
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="地方",金鹰纪实
