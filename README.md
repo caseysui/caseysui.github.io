@@ -3,7 +3,7 @@
 
 - [JUSTMYSOCKS](https://justmysocks3.net/members/aff.php?aff=21040)
 - [SHADOWSOCKS](https://portal.shadowsocks.au/aff.php?aff=12148)
-- [EEVPN](https://www.eevpn.com/#/register?code=k9plQH3v)
+- [EEVPN](https://www.11jiasu.com/#/register?code=k9plQH3v)
 ### 软件下载
 
 - [Android Clash](https://github.com/Kr328/ClashForAndroid/releases)
