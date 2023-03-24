@@ -6,7 +6,7 @@
 
 ### 安卓版Clash使用教程
 
-去[这里](https://file.caseu.ml/share/PSmBnKTS)找到Clash.for.Android，双击下载并安装
+去[这里](https://pan.caseu.ml/s/qzHW)找到Clash.for.Android，双击下载并安装
 
 ![image](../images/clash.for.android.1.png)
 
@@ -26,7 +26,7 @@
  
 ### 电脑版Clash使用教程
 
-去[这里](https://file.caseu.ml/share/PSmBnKTS)找到Clash.for.Windows，双击下载并解压
+去[这里](https://pan.caseu.ml/s/qzHW)找到Clash.for.Windows，双击下载并解压
 
 ![image](../images/clash.for.windows.1.png)
 
