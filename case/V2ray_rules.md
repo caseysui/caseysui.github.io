@@ -2,16 +2,10 @@
 #代理规则
 [
   {
-    "outboundTag": "block",
-    "domain": [
-      "geosite:category-ads-all"
-    ],
-    "enabled": true
-  },
-  {
     "inboundTag": [],
     "outboundTag": "proxy",
     "domain": [
+      "domain:openai.com",
       "geosite:github",
       "geosite:google",
       "geosite:telegram",
@@ -23,11 +17,14 @@
     "inboundTag": [],
     "outboundTag": "direct",
     "domain": [
-      "geosite:microsoft",
+      "domain:jutal.com",
+      "domain:moyu.im",
+      "domain:caseu.ml",
+      "domain;pjoe.com.cn",
       "geosite:apple",
-      "geosite:apple-cn",
       "geosite:category-games@cn",
       "geosite:cn",
+      "geosite:microsoft",
       "geosite:private",
       "geosite:win-extra",
       "geosite:win-spy",
@@ -40,7 +37,8 @@
     "outboundTag": "direct",
     "ip": [
       "geoip:cn",
-      "geoip:private"
+      "geoip:private",
+      "168.138.33.156"
     ],
     "enabled": true
   },
@@ -48,8 +46,19 @@
     "port": "0-65535",
     "inboundTag": [],
     "outboundTag": "proxy",
+    "ip": [
+      "geoip:!cn"
+    ],
     "domain": [
       "geosite:geolocation-!cn"
+    ],
+    "enabled": true
+  },
+  {
+    "inboundTag": [],
+    "outboundTag": "block",
+    "domain": [
+      "geosite:category-ads-all"
     ],
     "enabled": true
   }
