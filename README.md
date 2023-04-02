@@ -15,7 +15,7 @@
 - [Windows Shadowsocks](https://github.com/shadowsocks/shadowsocks-windows/releases)
 - [Mac V2rayU](https://github.com/yanue/V2rayU/releases)
 - [下载链接](https://pan.caseu.ml/s/xMuE)
-- [设置教程](https://caseysui.fun/case/Proxy.html)
+- [设置教程](/case/Proxy.md)
 ### 插件下载
 
 - [GEODAT](https://github.com/Loyalsoldier/v2ray-rules-dat/releases)
