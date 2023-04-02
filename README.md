@@ -13,9 +13,10 @@
 - [Windows Clash](https://github.com/ender-zhao/Clash-for-Windows_Chinese/releases)
 - [Windows v2rayN](https://github.com/2dust/v2rayN/releases)
 - [Windows Shadowsocks](https://github.com/shadowsocks/shadowsocks-windows/releases)
-- [Mac V2rayU](https://github.com/yanue/V2rayU/releases)
+- [Mac ClashX](https://github.com/yichengchen/clashX/releases)
+- [Mac ClashX Pro](https://install.appcenter.ms/users/clashx/apps/clashx-pro/distribution_groups/public)
 - [下载链接](https://pan.caseu.ml/s/xMuE)
-- [设置教程](/case/Proxy.md)
+- [设置教程](case/Proxy.md)
 ### 插件下载
 
 - [GEODAT](https://github.com/Loyalsoldier/v2ray-rules-dat/releases)
