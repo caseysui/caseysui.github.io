@@ -4,6 +4,7 @@
 - [JUSTMYSOCKS](https://justmysocks3.net/members/aff.php?aff=21040)
 - [SHADOWSOCKS](https://portal.shadowsocks.au/aff.php?aff=12148)
 - [EEVPN](https://www.11jiasu.com/#/register?code=k9plQH3v)
+
 ### 软件下载
 
 - [Android Clash](https://github.com/Kr328/ClashForAndroid/releases)
@@ -17,6 +18,7 @@
 - [Mac ClashX Pro](https://install.appcenter.ms/users/clashx/apps/clashx-pro/distribution_groups/public)
 - [下载链接](https://pan.caseu.ml/s/xMuE)
 - [设置教程](case/Proxy.md)
+
 ### 插件下载
 
 - [GEODAT](https://github.com/Loyalsoldier/v2ray-rules-dat/releases)
