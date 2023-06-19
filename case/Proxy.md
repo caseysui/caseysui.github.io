@@ -14,6 +14,10 @@
 
 ![image](../images/clash.for.android.3.png)
 
+名称位置可以改成自己想要的名字
+
+URL处粘贴链接
+
 ![image](../images/clash.for.android.4.png)
 
 ![image](../images/clash.for.android.5.png)
