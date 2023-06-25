@@ -17,6 +17,7 @@
 - [Mac ClashX](https://github.com/yichengchen/clashX/releases)
 - [Mac ClashX Pro](https://install.appcenter.ms/users/clashx/apps/clashx-pro/distribution_groups/public)
 - [设置教程](case/Proxy.md)
+- [下载链接](http://168.138.33.156/s/6BFb)
 
 ### 插件下载
 

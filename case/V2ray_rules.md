@@ -2,8 +2,19 @@
 #代理规则
 [
   {
-    "inboundTag": [],
+    "id": "5123167661275547155",
+    "port": "",
+    "outboundTag": "block",
+    "domain": [
+      "geosite:category-ads-all"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "5682099627238664576",
+    "port": "",
     "outboundTag": "proxy",
+    "ip": [],
     "domain": [
       "domain:openai.com",
       "geosite:github",
@@ -14,17 +25,19 @@
     "enabled": true
   },
   {
-    "inboundTag": [],
+    "id": "5702461616623230001",
+    "port": "",
     "outboundTag": "direct",
+    "ip": [],
     "domain": [
+      "domain:caseu.ml",
       "domain:jutal.com",
       "domain:moyu.im",
-      "domain:caseu.ml",
       "domain;pjoe.com.cn",
       "geosite:apple",
       "geosite:category-games@cn",
       "geosite:cn",
-      "geosite:microsoft",
+      "#geosite:microsoft",
       "geosite:private",
       "geosite:win-extra",
       "geosite:win-spy",
@@ -33,33 +46,36 @@
     "enabled": true
   },
   {
-    "inboundTag": [],
+    "id": "4953195308297413876",
+    "port": "",
     "outboundTag": "direct",
     "ip": [
       "geoip:cn",
-      "geoip:private",
-      "168.138.33.156"
+      "geoip:private"
+    ],
+    "domain": [],
+    "enabled": true
+  },
+  {
+    "id": "4644242632582213581",
+    "port": "",
+    "outboundTag": "proxy",
+    "ip": [],
+    "domain": [
+      "geosite:geolocation-!cn",
+      "geosite:gfw",
+      "geosite:tld-!cn"
     ],
     "enabled": true
   },
   {
-    "port": "0-65535",
-    "inboundTag": [],
+    "id": "4685181203966893939",
+    "port": "",
     "outboundTag": "proxy",
     "ip": [
       "geoip:!cn"
     ],
-    "domain": [
-      "geosite:geolocation-!cn"
-    ],
-    "enabled": true
-  },
-  {
-    "inboundTag": [],
-    "outboundTag": "block",
-    "domain": [
-      "geosite:category-ads-all"
-    ],
+    "domain": [],
     "enabled": true
   }
 ]
@@ -69,16 +85,21 @@
 #全局规则
 [
   {
+    "id": "4675159196742169851",
+    "port": "",
     "outboundTag": "block",
+    "ip": [],
     "domain": [
       "geosite:category-ads-all"
     ],
     "enabled": true
   },
   {
+    "id": "5715606251948465282",
     "port": "0-65535",
-    "inboundTag": [],
     "outboundTag": "proxy",
+    "ip": [],
+    "domain": [],
     "enabled": true
   }
 ]
@@ -88,19 +109,21 @@
 #直连规则
 [
   {
+    "id": "4671643984874062057",
+    "port": "",
     "outboundTag": "block",
+    "ip": [],
     "domain": [
       "geosite:category-ads-all"
     ],
     "enabled": true
   },
   {
+    "id": "5099340740322730435",
     "port": "0-65535",
-    "inboundTag": [],
     "outboundTag": "direct",
     "ip": [],
     "domain": [],
-    "protocol": [],
     "enabled": true
   }
 ]
