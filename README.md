@@ -31,7 +31,3 @@
 - [MIUI_hosts](case/MIUI_hosts)
 - [PhotoViewer](case/PhotoViewer.md)
 - [V2ray rules](case/V2ray_rules.md)
-
-### 扫码加我好友
-
-![image](images/wechat.jpg)
