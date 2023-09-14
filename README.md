@@ -1,7 +1,6 @@
 
 ### 服务推荐
 
-- [JUSTMYSOCKS](https://justmysocks3.net/members/aff.php?aff=21040)
 - [SHADOWSOCKS](https://portal.shadowsocks.au/aff.php?aff=12148)
 - [EEVPN](https://www.11jiasu.com/#/register?code=k9plQH3v)
 
