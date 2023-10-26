@@ -1,8 +1,8 @@
 
 ### 服务推荐
 
-- [EEVPN 年付9.9随时跑路套餐](https://www.11jiasu.com/#/register?code=k9plQH3v)
-- [SHADOWSOCKS 年付100+一般不跑路套餐](https://portal.shadowsocks.au/aff.php?aff=12148)
+- [EEVPN](https://www.11jiasu.com/#/register?code=k9plQH3v)
+- [SHADOWSOCKS](https://portal.shadowsocks.au/aff.php?aff=12148)
 
 ### 软件下载
 
@@ -15,8 +15,9 @@
 - [Windows Shadowsocks](https://github.com/shadowsocks/shadowsocks-windows/releases)
 - [Mac ClashX](https://github.com/yichengchen/clashX/releases)
 - [Mac ClashX Pro](https://install.appcenter.ms/users/clashx/apps/clashx-pro/distribution_groups/public)
-- [教程](case/Proxy.md)
 - [网盘](https://u.caseu.eu.org/s/EQFx)
+- [教程](case/Proxy.md)
+- [小鸡](https://a.caseu.eu.org)
 
 ### 插件下载
 
