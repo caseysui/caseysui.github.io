@@ -31,4 +31,3 @@
 - [IPTV](case/IPTV.m3u)
 - [MIUI_hosts](case/MIUI_hosts)
 - [PhotoViewer](case/PhotoViewer.md)
-- [V2ray rules](case/V2ray_rules.md)
