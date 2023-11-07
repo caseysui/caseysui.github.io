@@ -15,9 +15,10 @@
 - [Windows Shadowsocks](https://github.com/shadowsocks/shadowsocks-windows/releases)
 - [Mac ClashX](https://github.com/yichengchen/clashX/releases)
 - [Mac ClashX Pro](https://install.appcenter.ms/users/clashx/apps/clashx-pro/distribution_groups/public)
-- [网盘](https://u.caseu.eu.org/s/EQFx)
-- [教程](case/Proxy.md)
 - [小鸡](https://a.caseu.eu.org)
+- [网盘](https://u.caseu.eu.org/s/GvhO)
+- [教程](case/Proxy.md)
+
 
 ### 插件下载
 
