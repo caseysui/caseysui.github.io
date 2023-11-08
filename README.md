@@ -34,12 +34,9 @@
 <!doctype html>
 <html>
 <body>
-    <div class="container">
-        <h1>Congratulations, the site is created successfully! </h1>
-        <h3>Telegram搜索</h3>
+        <h1>试试Telegram搜索吧</h1>
             <script async src="https://cse.google.com/cse.js?cx=325006eede6014358">
             </script>
             <div class="gcse-search"></div>
-    </div>
 </body>
 </html>
