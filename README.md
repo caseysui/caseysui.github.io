@@ -18,7 +18,7 @@
 - [小鸡](https://a.caseu.eu.org)
 - [网盘](https://u.caseu.eu.org/s/GvhO)
 - [教程](case/Proxy.md)
-
+- [奇怪的链接](https://s.caseu.eu.org)
 
 ### 插件下载
 
@@ -31,13 +31,3 @@
 - [IPTV](case/IPTV.m3u)
 - [MIUI_hosts](case/MIUI_hosts)
 - [PhotoViewer](case/PhotoViewer.md)
-
-<!doctype html>
-<html>
-<body>
-        <h1>试试Telegram搜索吧</h1>
-            <script async src="https://cse.google.com/cse.js?cx=325006eede6014358">
-            </script>
-            <div class="gcse-search"></div>
-</body>
-</html>
