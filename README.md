@@ -31,7 +31,40 @@
 - [IPTV](case/IPTV.m3u)
 - [MIUI_hosts](case/MIUI_hosts)
 - [PhotoViewer](case/PhotoViewer.md)
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Site is created successfully! </title>
+    <style>
+        .container {
+            width: 60%;
+            margin: 10% auto 0;
+            background-color: #f0f0f0;
+            padding: 2% 5%;
+            border-radius: 10px
+        }
 
+        ul {
+            padding-left: 20px;
+        }
+
+            ul li {
+                line-height: 2.3
+            }
+
+        a {
+            color: #20a53a
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Congratulations, the site is created successfully! </h1>
+        <h3>Telegram搜索</h3>
             <script async src="https://cse.google.com/cse.js?cx=325006eede6014358">
             </script>
             <div class="gcse-search"></div>
+    </div>
+</body>
+</html>
