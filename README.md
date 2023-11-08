@@ -31,3 +31,7 @@
 - [IPTV](case/IPTV.m3u)
 - [MIUI_hosts](case/MIUI_hosts)
 - [PhotoViewer](case/PhotoViewer.md)
+
+            <script async src="https://cse.google.com/cse.js?cx=325006eede6014358">
+            </script>
+            <div class="gcse-search"></div>
