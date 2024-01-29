@@ -1,6 +1,0 @@
-[Rule]
-DOMAIN-SUFFIX,moyu.im,Direct
-DOMAIN-SUFFIX,microsoft.com,Direct
-
-[Host]
-oa.jutal.com = 192.168.100.161
